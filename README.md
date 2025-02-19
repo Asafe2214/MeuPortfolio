@@ -25,10 +25,10 @@ Este site está hospedado no GitHub Pages.
 Se quiser rodar o projeto no seu computador:
 
 # Clone este repositório
-git clone https://github.com/seuusuario/meu-portfolio.git
+git clone https://github.com/Asafe2214/MeuPortfolio
 
 # Acesse a pasta do projeto
-cd meu-portfolio
+cd MeuPortfolio
 
 # Abra o arquivo index.html no navegador
 start index.html # (Windows) ou open index.html # (Mac)
