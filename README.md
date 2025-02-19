@@ -39,7 +39,7 @@ Caso queira falar comigo, me encontre em:
 
 GitHub: https://github.com/Asafe2214
 
-LinkedIn: https://www.linkedin.com/in/asafe-mendes-10aa631a2/
+LinkedIn: https://www.linkedin.com/in/asafemendes2214/
 
 E-mail: asafekgabriel1@gmail.com
 
