@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Principal</title>
+    <link rel="stylesheet" href="style.css"> 
+    <script src="script.js" defer></script> 
+</head>
+<body>
+
+    <div id="header">
+        <nav>
+            <a href="#" onclick="carregarPagina('sobremim.html')">Sobre Mim</a>
+            <a href="#" onclick="carregarPagina('projects.html')">Meus Projetos</a>
+            <a href="#" onclick="carregarPagina('contato.html')">Contato</a>
+        </nav>
+
+        <button id="darkModeToggle" onclick="toggleDarkMode()">🌙</button>
+
+    </div>
+
+    <iframe id="conteudo" src="sobremim.html"></iframe> 
+
+</body>
+</html>
